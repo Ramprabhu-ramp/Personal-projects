@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+venv/
+.DS_Store
+
+# Secrets and environment variables
+.env
+
+# OS-specific
+*.swp
+
+# GCP-specific (optional)
+# app.yaml
